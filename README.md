@@ -4,7 +4,7 @@
 
 ## Background
 
-In recent months, I have been experimenting with different valuation methods to value a variety of companies. In my finance class, I learned Discounted Cash Flow Valuation with the traditional Capital Asset Pricing Model (CAPM) and a little bit of Dividend Discount Model here and there. Then, when I started to use them to value actual companies to practice my skillsets. It has been going well until I couldn't use the DCF model to value banks.
+In recent months, I have been experimenting with different valuation methods to value a variety of companies. In my finance class, I learned Discounted Cash Flow Valuation with the traditional Capital Asset Pricing Model (CAPM) and a little bit of Dividend Discount Model here and there. Then, I started to use them to value actual companies to practice my skillsets. It has been going well until I couldn't use the DCF model to value banks.
 
 I quickly learned Comparable Company Analysis to see if it works for intrinsic valuation. More on that later. Then, I researched how to value banks on the internet, and I learned to use Net Tangible Asset or Book Value as a basis of the valuation instead of Free Cash Flow to find intrinsic values.
 

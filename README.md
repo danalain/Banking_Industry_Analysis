@@ -46,7 +46,7 @@ The spreadsheet also shows that you can do comps forecast for the following year
 __Percent Change Formulas__:
 
 * New Value / Old Value - 1
-* New Value - Old Value / | Old Value |
+* New Value - Old Value / ABS(Old Value)
 
 The first one is a quick percent change formula, but it is not accurate when the old value is negative. In that case, use the second formula.
 

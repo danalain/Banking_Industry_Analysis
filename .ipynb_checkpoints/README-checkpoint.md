@@ -93,13 +93,23 @@ The last time I value JPM, it didn't go as planned because DCF doesn't work with
 
 <img src="Images/7Bs.png" /> 
 
+Today, we will be analyzing 7 banks as follows:
+
+1. [JP Morgan](#JP-Morgan)
+2. [Bank of America](#Bank-of-America)
+3. [Wells Fargo](#Wells-Fargo)
+4. [Citigroup](#Citigroup)
+5. [US Bancorp](#US-Bancorp)
+6. [Capital One](#Capital-One)
+7. [Goldman Sachs](#Goldman-Sachs)
+
 Using both the Income Statement and Balance Sheet approach, I calculated respective growth rates in book values and earnings. I forecasted the approximate intrinsic share price at the next ten-year mark using the growth rates. Using the current day share price and the predicted share price, I found the internal rate of return and the cash on cash return which I can use to make a sound investment decision.
 
-The following spreadsheet includes valuation and analysis for all seven banks under study.
+The following spreadsheet includes valuation and analysis for all seven banks under study. Values are in millions except per share.
 
 __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.xlsx)
 
-## JP Morgan (In Millions Except Per Share)
+## JP Morgan
 
 | |
 | -------------------------------------- |
@@ -113,7 +123,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/JPM_IRR.png" width="800" /> |
 
-## Bank of America (In Millions Except Per Share) 
+## Bank of America
 
 | |
 | -------------------------------------- |
@@ -127,7 +137,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/BAC_IRR.png" width="800" /> |
 
-## Wells Fargo (In Millions Except Per Share)
+## Wells Fargo
 
 | |
 | -------------------------------------- |
@@ -141,7 +151,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/WFC_IRR.png" width="800" /> |
 
-## Citigroup (In Millions Except Per Share)
+## Citigroup
 
 | |
 | -------------------------------------- |
@@ -155,7 +165,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/C_IRR.png" width="800" /> |
 
-## US Bancorp (In Millions Except Per Share)
+## US Bancorp
 
 | |
 | -------------------------------------- |
@@ -169,7 +179,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/USB_IRR.png" width="800" /> |
 
-## Capital One (In Millions Except Per Share)
+## Capital One
 
 | |
 | -------------------------------------- |
@@ -183,7 +193,7 @@ __Download File__: [Individual Company Valuation Spreadsheet](Spreadsheets/ICV.x
 | -------------------------------------- |
 | <img src="Images/COF_IRR.png" width="800" /> |
 
-## Goldman Sachs (In Millions Except Per Share)
+## Goldman Sachs
 
 | |
 | -------------------------------------- |
